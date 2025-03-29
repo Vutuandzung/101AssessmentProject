@@ -1,0 +1,1 @@
+robot --outputdir ./Reports testscript/merchant_service_automated_test.robot/
