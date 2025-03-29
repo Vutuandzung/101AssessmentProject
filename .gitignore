@@ -3,3 +3,5 @@ log.html
 report.html
 output.xml
 interactive_console_output.xml
+environment/__pycache__/getData.cpython-39.pyc
+testscript/__pycache__/LocustHappyCases.cpython-39.pyc
