@@ -11,4 +11,7 @@
 3. **Generating Reports**  
 - To generate reports in the `./Reports` directory, execute:  
 run.bat
-
+4. **Run Load Test**
+Please use the command:
+locust -f LocustHappyCases.py --web-port 8090
+If port 8090 does not work, try changing it to a different port.
